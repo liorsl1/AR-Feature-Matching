@@ -3,7 +3,7 @@
 
 #### <ins>The Goal</ins> : Render a 3D object onto a 2D image, and create an AR experience, Using Geometric Transformations, Camera Calibration, and Feature Matching (SIFT).
 -----------
-#### <ins>Proccess </ins> :
+#### <ins>Process </ins> :
 - First, We calibrate the camera (Samsung Galaxy s20) using a printed chessboard image, and open-cv, and get the camera intrinsics + distortion coefficients:
 ![ar](misc/c_c.png)
   - ##### (Visual check for the calibration output (map a 3D cube onto the 2D chessboard))
